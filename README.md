@@ -1,0 +1,1 @@
+Deep learning project for automated detection of retinal diseases from fundus images using CNN models. Includes image preprocessing, model training, and evaluation workflows to classify conditions such as diabetic retinopathy and glaucoma, supporting research in early and accessible eye disease screening
